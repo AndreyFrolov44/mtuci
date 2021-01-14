@@ -1,0 +1,5 @@
+C:\Users\frolo\Documents\лабы\Технологии программирования\LibraryTechnology\bin\Release\LibraryTechnology.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\LibraryTechnology\obj\Release\LibraryTechnology.csprojAssemblyReference.cache
+C:\Users\frolo\Documents\лабы\Технологии программирования\LibraryTechnology\obj\Release\LibraryTechnology.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\LibraryTechnology\obj\Release\LibraryTechnology.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\LibraryTechnology\obj\Release\LibraryTechnology.csproj.CopyComplete

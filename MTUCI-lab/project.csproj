@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0610CA85-09C9-4C7D-B18A-10D4D394CCA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\project.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\project.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Lib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassLab2.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab1.Designer.cs">
+      <DependentUpon>lab1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab10.Designer.cs">
+      <DependentUpon>lab10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab2.Designer.cs">
+      <DependentUpon>lab2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab3.Designer.cs">
+      <DependentUpon>lab3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab4.Designer.cs">
+      <DependentUpon>lab4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab5.Designer.cs">
+      <DependentUpon>lab5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab51.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab51.Designer.cs">
+      <DependentUpon>lab51.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab510.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab510.Designer.cs">
+      <DependentUpon>lab510.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab511.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab511.Designer.cs">
+      <DependentUpon>lab511.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab512.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab512.Designer.cs">
+      <DependentUpon>lab512.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab513.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab513.Designer.cs">
+      <DependentUpon>lab513.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab514.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab514.Designer.cs">
+      <DependentUpon>lab514.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab515.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab515.Designer.cs">
+      <DependentUpon>lab515.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab516.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab516.Designer.cs">
+      <DependentUpon>lab516.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab52.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab52.Designer.cs">
+      <DependentUpon>lab52.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab53.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab53.Designer.cs">
+      <DependentUpon>lab53.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab54.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab54.Designer.cs">
+      <DependentUpon>lab54.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab55.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab55.Designer.cs">
+      <DependentUpon>lab55.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab56.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab56.Designer.cs">
+      <DependentUpon>lab56.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab57.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab57.Designer.cs">
+      <DependentUpon>lab57.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab58.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab58.Designer.cs">
+      <DependentUpon>lab58.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab59.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab59.Designer.cs">
+      <DependentUpon>lab59.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab6.Designer.cs">
+      <DependentUpon>lab6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab61.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab61.Designer.cs">
+      <DependentUpon>lab61.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab8.Designer.cs">
+      <DependentUpon>lab8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lab90.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lab90.Designer.cs">
+      <DependentUpon>lab90.cs</DependentUpon>
+    </Compile>
+    <Compile Include="password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="password.Designer.cs">
+      <DependentUpon>password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="password2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="password2.Designer.cs">
+      <DependentUpon>password2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab1.resx">
+      <DependentUpon>lab1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab10.resx">
+      <DependentUpon>lab10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab2.resx">
+      <DependentUpon>lab2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab3.resx">
+      <DependentUpon>lab3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab4.resx">
+      <DependentUpon>lab4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab5.resx">
+      <DependentUpon>lab5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab51.resx">
+      <DependentUpon>lab51.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab510.resx">
+      <DependentUpon>lab510.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab511.resx">
+      <DependentUpon>lab511.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab512.resx">
+      <DependentUpon>lab512.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab513.resx">
+      <DependentUpon>lab513.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab514.resx">
+      <DependentUpon>lab514.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab515.resx">
+      <DependentUpon>lab515.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab516.resx">
+      <DependentUpon>lab516.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab52.resx">
+      <DependentUpon>lab52.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab53.resx">
+      <DependentUpon>lab53.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab54.resx">
+      <DependentUpon>lab54.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab55.resx">
+      <DependentUpon>lab55.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab56.resx">
+      <DependentUpon>lab56.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab57.resx">
+      <DependentUpon>lab57.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab58.resx">
+      <DependentUpon>lab58.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab59.resx">
+      <DependentUpon>lab59.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab6.resx">
+      <DependentUpon>lab6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab61.resx">
+      <DependentUpon>lab61.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab8.resx">
+      <DependentUpon>lab8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lab90.resx">
+      <DependentUpon>lab90.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="password.resx">
+      <DependentUpon>password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="password2.resx">
+      <DependentUpon>password2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\arrayLibrary\arrayLibrary.csproj">
+      <Project>{fd62cdcd-032c-4432-bc80-f2ed94b8ba73}</Project>
+      <Name>arrayLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MTUCI-library\LibraryTechnology.csproj">
+      <Project>{0e2d4a90-1a1a-46a8-a14f-f1cc04513d82}</Project>
+      <Name>LibraryTechnology</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

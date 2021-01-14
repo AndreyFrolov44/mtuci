@@ -1,0 +1,131 @@
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\project.exe.config
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\project.exe
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\project.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.Form1.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.exe
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab1.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.password.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\LibraryTechnology.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\LibraryTechnology.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab2.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.password2.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\project.xml
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\bin\Debug\Lib.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab3.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab4.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab5.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab51.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\project\obj\Debug\project.lab52.resources
+C:\vs\MTUCI-lab\bin\Debug\project.exe.config
+C:\vs\MTUCI-lab\bin\Debug\project.xml
+C:\vs\MTUCI-lab\bin\Debug\project.exe
+C:\vs\MTUCI-lab\bin\Debug\project.pdb
+C:\vs\MTUCI-lab\bin\Debug\Lib.dll
+C:\vs\MTUCI-lab\bin\Debug\LibraryTechnology.dll
+C:\vs\MTUCI-lab\bin\Debug\LibraryTechnology.pdb
+C:\vs\MTUCI-lab\obj\Debug\project.csprojAssemblyReference.cache
+C:\vs\MTUCI-lab\obj\Debug\project.Form1.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab1.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab2.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab3.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab4.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab5.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab51.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab52.resources
+C:\vs\MTUCI-lab\obj\Debug\project.password.resources
+C:\vs\MTUCI-lab\obj\Debug\project.password2.resources
+C:\vs\MTUCI-lab\obj\Debug\project.Properties.Resources.resources
+C:\vs\MTUCI-lab\obj\Debug\project.csproj.GenerateResource.cache
+C:\vs\MTUCI-lab\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\vs\MTUCI-lab\obj\Debug\project.csproj.CopyComplete
+C:\vs\MTUCI-lab\obj\Debug\project.exe
+C:\vs\MTUCI-lab\obj\Debug\project.pdb
+C:\vs\MTUCI-lab\obj\Debug\project.lab53.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab54.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab55.resources
+C:\vs\MTUCI-lab\obj\Debug\project.lab56.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.exe.config
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.xml
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.exe
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\Lib.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\LibraryTechnology.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\LibraryTechnology.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.Form1.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab1.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab2.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab3.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab4.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab5.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab51.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab52.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab53.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab54.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab55.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab56.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.password.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.password2.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.Properties.Resources.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.CopyComplete
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.exe
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\arrayLibrary.dll
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\arrayLibrary.pdb
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab6.resources
+C:\Users\frolo\Documents\лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab61.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.exe.config
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.xml
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.exe
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\project.pdb
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\arrayLibrary.dll
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\Lib.dll
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\LibraryTechnology.dll
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\arrayLibrary.pdb
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\LibraryTechnology.pdb
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.Form1.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab1.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab2.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab3.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab4.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab5.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab51.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab52.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab53.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab54.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab55.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab56.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab6.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab61.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.password.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.password2.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.Properties.Resources.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.CopyComplete
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.exe
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.pdb
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab8.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\itextsharp.dll
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\arrayLibrary.dll.config
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\bin\Debug\itextsharp.xml
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab90.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.csproj.ResolveComReference.cache
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab10.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab57.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab58.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab59.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab510.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab511.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab512.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab513.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab514.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab515.resources
+C:\Users\andre\OneDrive\Документы\Лабы\Технологии программирования\prjct\main\MTUCI-lab\obj\Debug\project.lab516.resources
